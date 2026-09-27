@@ -1,0 +1,6 @@
+node_modules
+.env
+.mongo-data
+dist
+.DS_Store
+*.log
